@@ -1,6 +1,5 @@
 plugins: 
   - jekyll-remote-theme
-  - alembic-jekyll-theme
 remote_theme: daviddarnes/alembic
 baseurl: "/"
 url: "http://ekidane.github.io"
